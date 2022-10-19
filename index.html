@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html lang ="en">  
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>D&D  5e Loading Screen</title>  
+    <!-- ICONS -->
+    <script src="https://kit.fontawesome.com/7e282d14cd.js" crossorigin="anonymous"></script>
+    <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" href="style.css"/>
+    <!-- FUNCTIONS -->
+    <script src="index.js"></script>
+</head> 
+<body>
+    <main>
+        <h1>Your DM is loading...</h1>
+        <div class="main">
+            <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+        </div>
+        <div class="hint-output">
+            <div class="hint" id="hint"></div>
+            <div class="author" id="author"></div>
+        </div>
+        <div class="footer">
+            <div>Made with ❤️ by <a href="https://www.reddit.com/user/Mikitz/">Mikitz</a>. <a class="icon-link" href="https://github.com/mikitz/dnd-5e-loading-screen"><i class="fa-brands fa-github"></i></a></div>
+            <div><a href="https://loading.io/css/">Spinner</a> provided by loading.io.</div>
+        </div>
+    </main> 
+</body>
+<script>
+    setIndexListeners()
+    loadingScreen()
+</script>
+</html>
