@@ -1,5 +1,5 @@
 # D&D 5e Loading Screen
-A website that acts similarly to video game loading screens for D&amp;D 5e.
+A website that acts similarly to a video game loading screen for D&amp;D 5e.
 
 ## Sources
 - https://www.reddit.com/r/DnD/comments/8oaqjb/dd_loading_screen_tips/
