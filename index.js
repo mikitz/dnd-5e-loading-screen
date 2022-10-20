@@ -15,7 +15,7 @@ async function loadingScreen(){
     setInterval(function(){
         let hint = randomItemFromObject(hints)
         updateHint(hint, elementAuthor, elementHint)
-    }, 10 * 1000)
+    }, 30 * 1000)
 }
 function updateHint(hint, elementAuthor, elementHint){
     elementAuthor.classList.remove('fade-in')
@@ -29,7 +29,7 @@ function updateHint(hint, elementAuthor, elementHint){
 
         elementAuthor.classList.remove('fade-out')
         elementHint.classList.remove('fade-out')
-        
+
         elementAuthor.classList.add('fade-in')
         elementHint.classList.add('fade-in')
 
