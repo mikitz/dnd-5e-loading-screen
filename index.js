@@ -43,5 +43,5 @@ function updateHint(hint, elementAuthor, elementHint){
         let span = document.createElement('span')
         span.innerHTML = hint.HINT
         elementHint.appendChild(span)
-    }, 3 * 1000)
+    }, 3.1 * 1000)
 }
