@@ -12,10 +12,16 @@
     <link rel="stylesheet" href="style.css"/>
     <!-- FUNCTIONS -->
     <script src="index.js"></script>
+    <!-- LIBRARIES -->
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
 </head> 
 <body>
     <main>
         <h1>Your DM is loading...</h1>
+        <div class="icons">
+            <a id="submit-ideas" target="_blank" rel="noopener noreferrer" href="https://forms.gle/Wik2LBqZDTr8Ygjv9"><i class="fa-solid fa-lightbulb"></i></a>
+        </div>
         <div class="main">
             <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
         </div>
@@ -24,12 +30,13 @@
             <div class="author" id="author"></div>
         </div>
         <div class="footer">
-            <div>Made with ❤️ by <a href="https://www.reddit.com/user/Mikitz/">Mikitz</a>. <a class="icon-link" href="https://github.com/mikitz/dnd-5e-loading-screen"><i class="fa-brands fa-github"></i></a></div>
-            <div><a href="https://loading.io/css/">Spinner</a> provided by loading.io.</div>
+            <div>Made with ❤️ by <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/user/Mikitz/">Mikitz</a>. <a class="icon-link" target="_blank" rel="noopener noreferrer" href="https://github.com/mikitz/dnd-5e-loading-screen"><i class="fa-brands fa-github"></i></a></div>
+            <div><a target="_blank" rel="noopener noreferrer" href="https://loading.io/css/">Spinner</a> provided by loading.io.</div>
         </div>
     </main> 
 </body>
 <script>
+    indexSetup()
     loadingScreen()
 </script>
 </html>

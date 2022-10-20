@@ -1,3 +1,8 @@
+function indexSetup(){
+    tippy("#submit-ideas", {
+        content: "Submit tip idea(s)"
+    })
+}
 // Function to load a local JSON from data/JSONs/
 async function fetchLocalJson(JSON){
     const response = await fetch(`${JSON}.json`)

@@ -43,6 +43,11 @@ body {
     top: 25px;
     right: 25px;
     font-size: 30px;
+    color: white;
+}
+
+.icons a:visited, a:hover, a:active {
+  color: inherit;
 }
 
 .icons .icon-link {
