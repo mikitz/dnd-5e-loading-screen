@@ -18,7 +18,7 @@ async function loadingScreen(){
 
     let hint = randomItemFromObject(hints)
     let a = document.createElement('a')
-    a.href = hint.SOURCE
+    if (hint.SOURCE) a.href = hint.SOURCE
     a.innerHTML = hint.AUTHOR
     elementAuthor.appendChild(a)
 
@@ -32,7 +32,7 @@ async function loadingScreen(){
 
         let hint = randomItemFromObject(hints)
         let a = document.createElement('a')
-        a.href = hint.SOURCE
+        if (hint.SOURCE) a.href = hint.SOURCE
         a.innerHTML = hint.AUTHOR
         elementAuthor.appendChild(a)
 
