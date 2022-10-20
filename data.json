@@ -1,16 +1,1757 @@
-[{"HINT":"Share magic items to stop fist fights at the table.","AUTHOR":"u/Weaseline","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e025e1p/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Despite not having specific buttons, you can try parkour. Climb shelves, swing from chandeliers, slide down stairs like a toddler. It's a more interesting interaction that just marching on the floor.","AUTHOR":"u/smcadam","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e0273y7/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Wizards are the best. Have you ever delved through a giant dungeon assembled by a barbarian? Nope.","AUTHOR":"u/smcadam","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e0273y7/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"A natural 20 doesn't allow you to do the impossible.","AUTHOR":"u/Aquafoot","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e01yxz9/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Contrary to popular belief, fire can kill a dragon!","AUTHOR":"u/Nowhereman123","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Magic often requires the caster to perform complex gestures and recite ancient incantations aloud. Remember that next time you ask if you can discreetly cast a spell on someone.","AUTHOR":"u/Nowhereman123","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Just because the DM put that monster there doesn’t mean you’re able to kill it.","AUTHOR":"u/Nowhereman123","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Just because there’s a bunch of skeletons around it, doesn’t mean that magic item is cursed. Sometimes.","AUTHOR":"u/Nowhereman123","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Rogues have a lot of experience handling money. Let them keep track of the party funds!","AUTHOR":"u/MangoTux","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02jlhd/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"The Orphanage is a great testing ground for new offensive abilities and spells. After all, whos going to miss them?","AUTHOR":"u/Ingmaster","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02rqxm/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"There are many things to behold in dungeons, Beholders are one of those that you don't want.","AUTHOR":"u/SensualMuffins","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Did you know? A 10-foot pole is an indispensible tool for anyone serious about adventuring.","AUTHOR":"u/SensualMuffins","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Just a reminder: not all warriors are red, nor are mages blue, but if they're about to die, the Cleric has healing to do.","AUTHOR":"u/SensualMuffins","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"Check the Player's Handbook, page 151 for information regarding that Pack you obtained during Character Creation.","AUTHOR":"u/SensualMuffins","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"An 11 foot pole is a significant improvement over the 10 foot pole. Consider upgrading in town.","AUTHOR":"u/Jumuraa","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02jj5u/?utm_source=share&utm_medium=web2x&context=3"},
-{"HINT":"A beartrap can be used for more than just bears.","AUTHOR":"u/Gzeus001","SOURCE":"https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02okum/?utm_source=share&utm_medium=web2x&context=3"}]
+[
+    {
+        "HINT": "Share magic items to stop fist fights at the table.",
+        "AUTHOR": "u/Weaseline",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e025e1p/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Despite not having specific buttons, you can try parkour. Climb shelves, swing from chandeliers, slide down stairs like a toddler. It's a more interesting interaction that just marching on the floor.",
+        "AUTHOR": "u/smcadam",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e0273y7/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Wizards are the best. Have you ever delved through a giant dungeon assembled by a barbarian? Nope.",
+        "AUTHOR": "u/smcadam",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e0273y7/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A natural 20 doesn't allow you to do the impossible.",
+        "AUTHOR": "u/Aquafoot",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e01yxz9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Contrary to popular belief, fire can kill a dragon!",
+        "AUTHOR": "u/Nowhereman123",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Magic often requires the caster to perform complex gestures and recite ancient incantations aloud. Remember that next time you ask if you can discreetly cast a spell on someone.",
+        "AUTHOR": "u/Nowhereman123",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Just because the DM put that monster there doesn’t mean you’re able to kill it.",
+        "AUTHOR": "u/Nowhereman123",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Just because there’s a bunch of skeletons around it, doesn’t mean that magic item is cursed. Sometimes.",
+        "AUTHOR": "u/Nowhereman123",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02mvn5/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Rogues have a lot of experience handling money. Let them keep track of the party funds!",
+        "AUTHOR": "u/MangoTux",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02jlhd/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The Orphanage is a great testing ground for new offensive abilities and spells. After all, whos going to miss them?",
+        "AUTHOR": "u/Ingmaster",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02rqxm/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "There are many things to behold in dungeons, Beholders are one of those that you don't want.",
+        "AUTHOR": "u/SensualMuffins",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Did you know? A 10-foot pole is an indispensible tool for anyone serious about adventuring.",
+        "AUTHOR": "u/SensualMuffins",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Just a reminder: not all warriors are red, nor are mages blue, but if they're about to die, the Cleric has healing to do.",
+        "AUTHOR": "u/SensualMuffins",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Check the Player's Handbook, page 151 for information regarding that Pack you obtained during Character Creation.",
+        "AUTHOR": "u/SensualMuffins",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030cv4/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An 11 foot pole is a significant improvement over the 10 foot pole. Consider upgrading in town.",
+        "AUTHOR": "u/Jumuraa",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02jj5u/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A beartrap can be used for more than just bears.",
+        "AUTHOR": "u/Gzeus001",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02okum/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Never say ",
+        "AUTHOR": "u/OriginalAntigenicSin",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02e4dt/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The oozes may look delicious, but please don’t digest them.",
+        "AUTHOR": "u/Weaseline",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e025e1p/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Can’t carry enough loot? Hire a lackey!",
+        "AUTHOR": "u/Weaseline",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e025e1p/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Please don't place that portable hole inside your bag of holding... No seriously, please don't...",
+        "AUTHOR": "u/Aquafoot",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e01yxz9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Throwing the halfling is always a viable strategy.",
+        "AUTHOR": "u/DDDragoni",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030a7g/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Before you try to get a ",
+        "AUTHOR": "u/DDDragoni",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030a7g/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Many powerful creatures can assume human form. Consider this before deciding that the mysterious fellow on the side of the road is an easy source of gold.",
+        "AUTHOR": "u/DDDragoni",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030a7g/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When in doubt, blame the bard.",
+        "AUTHOR": "u/DDDragoni",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e030a7g/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Humans are not ",
+        "AUTHOR": "u/EvenThisNameIsGone",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e034io0/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If a dragon invites you to a barbeque, decline.",
+        "AUTHOR": "u/EvenThisNameIsGone",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e034io0/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Atheism isn't rational in a world where you can bump into gods in the street. Piety is good policy.",
+        "AUTHOR": "u/EvenThisNameIsGone",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e034io0/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Never say ",
+        "AUTHOR": "u/EvenThisNameIsGone",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e034io0/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Anyone can disengage if they forego an action.",
+        "AUTHOR": "u/EvenThisNameIsGone",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e034io0/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Remember to use social skills! Combat isn't always necessary!",
+        "AUTHOR": "u/brinjal66",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e037569/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you attack with a light weapon, you can use a bonus action to attack with one in your other hand.",
+        "AUTHOR": "u/brinjal66",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e037569/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can make Nature checks to identify monsters and their weaknesses.",
+        "AUTHOR": "u/brinjal66",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e037569/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you reduce a creature to 0 hit points with a melee attack, you can choose to knock it out instead of killing it.",
+        "AUTHOR": "u/brinjal66",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e037569/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Losing a ten foot pole to a trap is a lot better than losing a limb.",
+        "AUTHOR": "u/Xheotris",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02tu4v/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Having a hard time during fights? All you have to do is reduce your enemies HP to below one, while simultaneously keeping your own HP above zero.",
+        "AUTHOR": "u/Tykennn",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02zzal/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Did you know that Highorse Paladinus once defeated a balor that invaded Earth?",
+        "AUTHOR": "u/RaveltheDudeMan",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02jzq2/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Some say a book of great evil has appeared after a great period of being missing.",
+        "AUTHOR": "u/RaveltheDudeMan",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02jzq2/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Grease has numerous uses. For example, healthy frying of food- cook it in the grease, then once you're done, it vanishes!",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Health potions you find in a millennia old crypt are never trapped or poisoned. Or are they?",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Isn't it odd how tombs are full of still legal tender?",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Trust me, at least you don't have to deal with THAC0",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Generally, when reanimating the dead, it's polite to ask the dead first if they want to come back.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Mimic paranoia never ends well. Eventually the entire dungeon is a giant mimic.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Ratfolk of Medium Size? I don't think they exist.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you see a man in a pointy wizard hat, a t-shirt with the logo of a Earth gaming convention, and calls himself Elminster, be very polite and do not anger him.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Try challenging people to a duel to first blood rather than the death!",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Have you ever considered peaceful negotiations?",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "10 foot poles. You wouldn't think they're useful, but they are.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Dwarves used to be a class. Yes, that makes no sense. Shut up.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Crystaline Memories is a spell in which you RIP OUT A STONE OUT OF SOMEONE'S BRAIN. Wizards.",
+        "AUTHOR": "u/Scherazade",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e03doq9/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Beeswax is excellent both for disabling traps and for making earplugs to defend against sound-based effects.",
+        "AUTHOR": "u/Zaorish9",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/8oaqjb/comment/e02lida/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "In D&D, the options are limitless and the consequences are mandatory.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Never split the party.\n NEVER SPLIT THE PARTY.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Generally speaking, if you end up with a fraction while playing D&D, round down.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Generally speaking, if you end up with a tie between two numbers in D&D, whoever rolled wins the tie.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "There are no wrong paths, just paths that your DM hasn’t prepared for.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A creature can be Tiny, Small, Medium, Large, Huge, or Gargantuan in size.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "For most rolls, your success is measured by whether you were able to roll higher than a Difficulty Class, or DC.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "For attack rolls, your success is measured by whether you were able to roll higher than an Armor Class, or AC.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "This is game is tabletop, and your DM’s responses aren’t programmed. Think outside the box!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Be cautious and intelligent, and think things through. D&D does not let you restore from save files.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Don’t be afraid of a retreat if combat isn’t going well. It may seem cowardly, but cowardice is usually preferable to death.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When the DM asks you “Really? Are you sure?”, you should always say “No.”",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Keep track of your buffs, bonuses, abilities, and penalties. Your DM can’t remember everything.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The DM’s role is to play with the players, not against them. As far as you know, anyway.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "DMs are always hungry. Bring them food and they may well have mercy on your character.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "No matter how much fun you’re having, remember that you’re not the only person at the table.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Try to use your social skills often. Violence isn’t always the answer, and maybe that monster can be reasoned with.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Be sure to take notes on the lore and history of the world. Someone probably worked very hard on it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "DMs love to put traps everywhere. Have your local rogue check around to find and dismantle them.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Get into roleplaying! You might earn an inspiration point, which you can use to get advantage on a future roll.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Each coin is worth 10 coins of the next lowest denomination. Electrum, the worst coin ever, is the exception.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you are proficient with something, add your proficiency bonus to the roll. Duh.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If the campaign is getting too serious for you, recall that DMs often struggle to keep things serious at taverns.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If your Constitution modifier changes, your hit point maximum changes too, as if you had the new modifier from 1st level.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you have advantage, roll the d20 twice and take the higher number.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you have disadvantage, roll the d20 twice and take the lower number.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you have both disadvantage and advantage, they cancel each other out, even if there are multiple instances of either.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your Strength score measures how easily you could crush a tomato with your bare hands.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your Dexterity score measures how well you could dodge a tomato being thrown at you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your Constitution score measures whether you could eat a rotten tomato without puking.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your Intelligence score measures how likely you are to know that a tomato is a fruit.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your Wisdom score measures how likely you are to know that a tomato shouldn’t be in a fruit salad.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your Charisma score measures your ability to sell a tomato-based fruit salad – which is, of course, salsa.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "With ability checks, rolling a 1 or a 20 does not automatically determine success or failure.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Use Perception checks often to see what’s going on. Or, you know, you can just be oblivious. Up to you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Suspicious of that NPC’s intent? Roll an Insight check and become even more suspicious!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Use a Persuasion check to win people over, make friends, or haggle! Only complete chumps pay full price!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Performance checks will finally give you the chance to turn your game into a full-on musical.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Athletics checks determine how well you can perform physical activities, like climbing or running touchdowns.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you want to know more about the land or the plants and beasts that live upon it, try a Nature check.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Animal Handling checks! They’re good for seeing if you can mount that random creature and…not much else, honestly.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Sleight of Hand checks are great for stealing things. Do them all the time! There’s nothing annoying about them!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An Acrobatics check may be used if you need delicate finesse of motion – or if you really, really want to show off.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Stealth checks can let you hide behind something in the area. How stupid would it be if you could just crouch slightly?",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Arcana checks relate to your knowledge of magic, eldritch information, mystic tradition, and other nerd crap.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A History check will let you recall lore and finally make you feel cool about passing that test on the Civil War.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Do you want to play a deductive, clever hero, but you’re limited by your feeble human mind? Roll Investigation checks.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Religion checks will let you recall lore about different faiths, but it won’t erase the feeling of sin in your heart.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Medicine checks will let you diagnose an illness or stabilize someone. They cannot heal people. Please stop asking.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Nature checks are nice for knowing stuff about the wild, but you’ll need Survival if you want it to not kill you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Throw out a Deception check if you need to fool someone! Please do this instead of actually lying to your DM.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Intimidation checks are what you use when Persuasion and Deception didn’t work and you’re starting to get pissed off.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "In a contest, two participants roll, comparing totals against each other, not against a DC.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If a skill contest results in a tie, the situation before the contest remains unchanged.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "In a group check, everybody in the group rolls. If at least half the group succeeds, the check is a success.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Until your next turn, you only get 1 reaction, 1 action, and 1 bonus action.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use your reaction to make an opportunity attack when a creature that you can see moves out of your reach.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Use the Dash action if you want to increase your movement speed for the current turn.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you don’t want an enemy to make an opportunity attack against you as you move away, take the Disengage action.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Worried you’ll get easily murdered? Take the Dodge action and you’ll be a lot harder to hit.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "While dodging, you have advantage on Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "While dodging, any attack roll made against you has disadvantage if you can see the attacker.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You lose benefits of the Dodge action if you are incapacitated or if your speed drops to 0.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Take the Help action to give an ally advantage on their next ability check, or maybe even their next attack roll!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The Hide action will let you make a Stealth check to disappear from sight, should the environment allow it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The Ready action will let you act using your reaction before your next turn.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To Ready an action, you must specify both a triggering circumstance and what you will do when it happens.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When the trigger for a readied action occurs, you can either take the action or ignore the trigger.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To ready a spell, it must have a casting time of 1 action, and holding it until you’re ready to cast requires concentration.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The Search action may let you use a Perception check or an Investigation check to look around.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "In lightly obscured areas (e.g. dim light, patchy fog, or modest foliage), Perception checks with sight have disadvantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "In heavily obscured areas (e.g. darkness, opaque fog, or dense foliage), creatures are effectively blinded.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Bright light, provided by daylight and most light sources within a certain radius, lets most creatures see normally.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Dim light, provided by dawn, dusk, and a full moon, is normally a boundary between bright light and darkness.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Darkness, provided by nighttime, unlit areas, or magical darkness, keeps most creatures from seeing normally.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A creature with blindsight can perceive its surroundings without sight, kinda like Daredevil.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A creature with darkvision can’t discern color in darkness, only monochromatic shades.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Within a specified range, a creature with truesight can see pretty much everything. Yes, even that, you weirdo.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Unless it avoids taking damage from a fall, a creature lands prone at the end of that fall.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When a creature has no air, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round).",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When it can no longer survive without air, a suffocating creature drops to 0 hit points and is dying.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A suffocating creature can’t regain hit points or be stabilized until it can breathe again.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Until you are discovered or stop hiding, your Stealth check is contested by Perception checks of anyone actively searching.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Passive Perception determines if a creature notices something even if they’re not actively searching for it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can’t hide from a creature that can see you clearly, and you give away your position if you make noise.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A party traveling at a slow pace goes 200 feet in a minute, 2 miles in an hour, and 18 miles in a day.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A party traveling at a slow pace can use Stealth as they move.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A party traveling at a normal pace goes 300 feet in a minute, 3 miles in an hour, and 24 miles in a day.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A party traveling at a fast pace goes 400 feet in a minute, 4 miles in an hour, and 30 miles in a day.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A party traveling at a fast pace will suffer a -5 penalty to passive Perception scores.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To cast a spell, you must expend a slot of its level or higher. Cantrips come for free.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To cast a spell with a somatic component, you need free use of at least one hand to perform the gestures.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To cast a spell with a verbal component, you need to be able to speak.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To cast a spell with costless material components, you need those components, a component pouch, or a spellcasting focus.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To cast a spell with material components that have costs, you need to have those specific components.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If a spell states that a material component is consumed by the spell, you must provide that component for each casting.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Some spells require concentration to maintain an ongoing effect, and you can’t concentrate on two spells at once.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To keep concentration, roll a Constitution save if you take damage. The DC is 10 or half the damage, whichever is higher.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can’t concentrate if you’re incapacitated or dead. Do we really have to spell that one out for you? Geez.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You may need to make a DC 10 Constitution save to maintain spell concentration if your surroundings are distracting.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your attack bonus with spells equals your spellcasting ability modifier plus your proficiency bonus.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your spell save DC equals your spellcasting ability modifier plus your proficiency bonus plus 8.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If your spell has an attack, you roll. If your spell has a save, the enemy rolls.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Long rests restore all expended spell slots, although a few class options can get some back with a short rest.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you’re wearing armor, you need to be proficient in that armor in order to cast spells.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Some spells can be cast at higher levels for more powerful effects, and some cantrips get more powerful at higher levels.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Some spells can be cast as a rituals. Doing so takes 10 minutes longer but doesn’t expend a spell slot.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Some spells can have different areas of effect in all sorts of shapes and sizes.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Most spells have a range that specify what you can target. Some can only affect you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The effects of the same spell cast multiple times don’t stack. Only the most potent effect applies.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The effects of different spells add together while the durations of those spells overlap.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Some spellcasters know their spells and can always cast them. Other classes need to prepare spells from a list.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "For spells that take longer than an action to cast, you must spend your action each turn concentrating and casting it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "There’s more to a fight than just attacking! Consult your DM for other actions you can take in combat.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Initiative determines turn order in combat. Your initiative bonus is usually just your Dexterity modifier.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A round of combat roughly translates to 6 seconds of in-game time.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you are vulnerable to a damage type, you take double damage from that type.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you are resistant to a damage type, you take half damage from that type.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Multiple instances of vulnerability or resistance only count once each.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you roll a 1 on an attack roll, you automatically miss your attack.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you roll a 20 on an attack roll, you automatically hit and roll all of the damage dice twice before adding modifiers.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Ranged attacks have disadvantage if the target is beyond regular range but still within long range.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Ranged attacks cannot hit targets outside of the weapon’s long range.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your ranged attack rolls have disadvantage if an enemy that isn’t incapacitated is within 5 feet of you and can see you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you reduce a creature to 0 hit points with a melee attack, you can decide to knock it out instead of killing it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A target with half cover has a +2 bonus to AC and Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A target with total cover can’t be targeted directly by an attack or a spell, though area of effect spells are fair game.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Using the attack action, you can make a melee attack to shove a creature, either to knock it prone or push it away.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To push a target, it must be no more than one size larger than you and must be within your reach.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To push a target, you make an Athletics check contested by the target’s Athletics or Acrobatics check.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To make a melee attack against a creature, it must be within your reach. Most creatures have a 5-foot reach.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use an unarmed strike to make a melee attack without a weapon.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You are proficient in your unarmed strikes, and they deal bludgeoning damage equal to 1 + your Strength modifier.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use a bonus action to attack with a light melee weapon after attacking with one in your other hand.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When two-weapon fighting, only add your modifier to the damage of the second attack if it’s negative.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Using the Attack action, you can make a melee attack to grapple a creature if you have one free hand.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To grapple a target, it must be no more than one size larger than you and must be within your reach.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "To grapple a target, you make an Athletics check contested by the target’s Athletics or Acrobatics check.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Unless the creature you are grappling is much smaller than you, your speed is halved while dragging or carrying it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A Grappled creature can use its action to escape, making an Athletics or Acrobatics check contested by an Athletics check.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You have disadvantage on attacks against creatures that you cannot see.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You have advantage on attacks against creatures that cannot see you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Have an impairing condition? Ask your DM what it means. You might have to change up your strategy.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A blinded creature can’t see and automatically fails all checks that requires sight.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A blinded creature’s attack rolls have disadvantage, and attack rolls against them have advantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A charmed creature cannot target their charmer with attack rolls or any harmful abilities or magic.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The charmer has advantage on any ability check used to interact socially with their charmed creature.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A deafened creature can’t hear and automatically fails any ability check that requires hearing.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A frightened creature has disadvantage on ability checks and attack rolls if the source of its fear is within line of sight.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A frightened creature can’t willingly move closer to the source of its fear.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "The grappled condition ends if the grappler is incapacitated or an effect moves the grappled creature out of reach.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An incapacitated creature can’t take actions or reactions. This often happens in conjunction with other conditions.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An invisible creature is impossible to see without the aid of magic or a special sense.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "With regards to hiding, an invisible creature is heavily obscured. It may be detected by any noise or tracks it creates.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Attack rolls against an invisible creature have disadvantage, and its attack rolls have advantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A paralyzed creature, in addition to being incapacitated, can’t move or speak.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Attack rolls against a paralyzed creature have advantage. Any hits are crits if the attacker is within 5 feet.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A paralyzed creature fails Strength and Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A petrified creature is made of a solid inanimate substance, as are all nonmagical objects it is wearing or carrying.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A petrified creature is ten times heavier and does not age while petrified.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A petrified creature, in addition to being incapacitated, can’t move or speak, and is unaware of its surroundings.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A petrified creature fails Strength and Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A petrified creature is immune to poison and disease. Petrification only suspends existing poison or disease effects.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Attack rolls against a petrified creature have advantage, though the creature has resistance to all damage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A poisoned creature has disadvantage on attack rolls and ability checks.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A prone creature’s only movement options are crawling or using half their movement speed to stand up.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An attack roll against a prone creature has advantage if the attacker is within 5 feet – otherwise, it has disadvantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A prone creature has disadvantage on all of its attack rolls until it stands up and ends the condition.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Attack rolls against a restrained creature have advantage, and the creature’s attack rolls have disadvantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A restrained creature has disadvantage on Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A stunned creature, in addition to being incapacitated, can’t move and can speak only falteringly.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A stunned creature fails Strength and Dexterity saving throws, and attack rolls against it have advantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An unconscious creature, in addition to being incapacitated, can’t move or speak and is unaware of its surroundings.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When a creature becomes unconscious, it drops whatever it is holding and falls prone.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An unconscious creature fails Strength and Dexterity saving throws, and attack rolls against it have advantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "An attack roll that hits an unconscious creature is a crit if the attacker is within 5 feet of the creature.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the first level of exhaustion, you have disadvantage on ability checks.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the second level of exhaustion, in addition to prior effects, your speed is halved.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the third level of exhaustion, in addition to prior effects, you have disadvantage on attack rolls and saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the fourth level of exhaustion, in addition to prior effects, your hit point maximum is halved.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the fifth level of exhaustion, in addition to prior effects, your speed is reduced to 0.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At the sixth level of exhaustion, you no longer suffer prior effects! You do, however, die immediately.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Long rests reduce your exhaustion level by 1, provided that you had some food and drink.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Underwater, your melee weapon attacks have disadvantage – unless you have a swimming speed or the right weapon.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Underwater, daggers, javelins, shortswords, spears, and tridents do not automatically have disadvantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Underwater, ranged weapons automatically miss outside of their normal range.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Underwater, ranged weapons have disadvantage, unless the weapon is a crossbow, a net, or a thrown weapon.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Creatures and objects that are fully immersed in water have resistance to fire damage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Any willing creature that is at least one size larger than you and that has an appropriate anatomy can be your mount.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Once during your move, you can mount a creature within 5 feet or dismount. Doing so costs half your movement speed.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If an effect moves your mount against its will while you're on it, you must make a DC 10 Dexterity saving throw or fall off.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If an effect knocks you prone while you’re mounted, you must make a DC 10 Dexterity saving throw or fall off.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you are knocked off of your mount, you land prone in a space within 5 feet of it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If your mount is knocked prone, you can use your reaction to dismount as it falls and land on your feet.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "While mounted, you can either control your mount if it’s been trained to accept a rider or have it act independently.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Intelligent creatures, like dragons, sphinxes, and especially smart horses, act independently when used as a mount.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Controlled mounts match your initiative order when you mount them and can move and act as soon as you mount them.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Controlled mounts can only take three actions: Dash, Disengage, and Dodge.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Independent mounts maintain their own initiative order. They move and act as they wish, not restricted by their riders.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If your mount provokes an attack of opportunity while you’re on it, the attacker can target either you or the mount.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Your carrying capacity is, in pounds, your Strength score multiplied by 15.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can push, drag, or lift a weight in pounds up to your Strength score multiplied by 30.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Rules for lifting and carrying are intentionally simple. If they’re too easy, you can use the variant encumbrance rules.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When using the variant encumbrance rules, ignore the strength column of the Armor table.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you carry weight in excess of 5 times your Strength score, you are encumbered, which means your speed drops by 10 feet.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you carry weight in excess of 10 times your Strength score, you are heavily encumbered.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "While you are heavily encumbered, your speed drops by 20 feet.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "While you are heavily encumbered, you have disadvantage on all rolls that use Strength, Dexterity, or Constitution.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Weapons with the Ammunition property need some kind of ammo to be used, and each attack expends one piece of ammo.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "After combat, you can recover half of your expended ammunition by taking the Search action.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Finesse property can be used with either your Dexterity or Strength modifier.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Heavy property will impose disadvantage on Small creatures attempting to use it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Light property can be used in with two-weapon fighting.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Range property can be used to make ranged attacks.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Reach property adds 5 feet to your reach for the purposes of attacks and opportunity attacks with it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Thrown property can be thrown as a ranged attack, using the same modifier as its melee attack.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Two-Handed property requires two hands when you attack with it.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A weapon with the Versatile property can be used with one hand, but if you want more damage, you can use two hands.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you switch movement types, subtract the distance you’ve already moved from the new speed.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can break up your movement on your turn, using some of your speed before and after your action.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can squeeze through a space if it’s large enough for a creature one size smaller than you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When squeezing, climbing, swimming, crawling, or being on rough terrain, each foot of movement costs an extra foot.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When squeezing through a space, you have disadvantage on attack rolls and Dexterity saving throws.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When squeezing through a space, attack rolls made against you have advantage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "On long jumps, you cover a number of feet up to your Strength score if you have a 10 foot running start.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Long jumps without a running start only cover a number of feet up to half of your Strength score.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "On high jumps, you cover a number of feet up to 3 + your Strength modifier if you have a 10 foot running start.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "High jumps without a running start only cover a number of feet up to half of your Strength modifier.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "There are no negative hit points. If you take damage that exceeds your remaining health, your hit points go to 0.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A creature that has died can’t regain hit points until some kind of resurrecting magic has restored it to life.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Don’t freak out if you reach 0 hit points! You’re not dead, just dying.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "At 0 hit points, you start making death saving throws, which have no bonuses you can add. It’s just you and fate.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you roll a 1 on a death saving throw, it counts as two failures.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you roll lower than 10 but higher than 1 on a death saving throw, it counts as a failure.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you take any damage while at 0 Hit Points, even if you’re stable, it counts as a death saving throw failure.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "After three failed death saving throws, your character is dead.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you roll a 10 or higher on a death saving throw, it counts as a success.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you roll a 20 on a death saving throw, you regain 1 hit point.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "After three successful death saving throws, you become stable. You’re not dead, just unconscious.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you’re stable, but not healed, you regain 1 hit point after 1d4 hours.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A stable creature is no longer stable and must start making death saving throws again if they take damage.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can stabilize a dying creature with a successful DC 10 Medicine check.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you’re at 0 hit points, temporary hit points won’t wake you up. Only real healing can do the job.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When damage reduces you to 0 hit points, you die if the extra damage equals or exceeds your hit point maximum.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A short rest is at least 1 hour during which you do nothing strenuous.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "During short rests, you can recover hit points by rolling your hit dice, adding your Constitution modifier each time.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "A long rest is at least 8 hours during which you do nothing strenuous.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "During long rests, you can recover all lost hit points and up to half of your total hit dice.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use time between adventures to tend to poisons, injuries, and diseases.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use time between adventures to do research and see what mysteries can be unfurled.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use time between adventures to learn a new language or how to use a new set of tools.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "According to monster opticians, a beholder’s eyesight is 20:20:20:20:20:20:20:20:20:20:14.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Just because you can do it, doesn’t mean you should, but it does mean you probably will.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "It is entirely valid to take a potion orally or as a suppository.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can save your progress in D&D by politely asking your DM to remember things.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can start a new save file in D&D by striking your DM on the head with a heavy object.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can pause the game in D&D by standing up and walking away from the table.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can open the options menu in D&D by writing a question on a sheet of paper and discreetly passing it to your DM.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can take a screenshot in D&D by touching your d20, your character sheet, and a pencil at the same time.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can make encounters easier by being more careful, communicating with your party, and bribing the DM.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "No, please. Roll to seduce an NPC. Your DM is just super excited to roleplay that.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Lawful Good doesn’t mean Lawful Nice and Chaotic Neutral doesn’t mean Chaotic Stupid.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If your Chaotic Neutral character decides to murder random people, you’re not playing a Neutral character.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Contrary to popular belief, for many things in a dungeon, you probably would want to touch it with a ten foot pole first.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Lawful characters obey a set of rules and always look both ways before crossing the street.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Chaotic characters don’t hold themselves to rules and won’t put their tray tables up just because you told them to.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Good characters put others above themselves and will always pay back that money you lent them.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Evil characters put themselves above others and will eat the last slice of pizza without asking anyone first.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Neutral characters have no particular sway toward a given axis and often list mayonnaise as their favorite condiment.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Unaligned creatures don’t comprehend the alignment concept. Players cannot be unaligned unless they’re very dense.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Winning combat is easy! Just reduce your opponents to 0 hit points while keeping your hit points above 0.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Valor pleases you, so grant me one request: play barbarian! And if you do not listen, then to hell with you!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Is your party dull? Are you not flirting with enough NPCs? Does your DM feel happy? Consider playing a bard.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Play a cleric if you like worshipping fake gods and being under immense pressure to save the rest of your party.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "When you play a druid, you can transform into a T-Rex. What more could you possibly want?!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If it’s your first time playing D&D, you like the simple things, or you’re gonna be on your phone all night, play fighter.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Playing monk is a great experience! Just get all the kung fu movie jokes out of your system before the game.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Paladins: they’re just like clerics, but with fewer commitment issues and more sharp objects to stab things with.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Play ranger to feel the thrill of the hunt, the wind in your hair, and a ferret crawling around in your tunic.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "I’d give you a good reason to play a rogue, but let’s be honest, your party probably already has 3.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Spells rock, but books are for nerds. Play sorcerer to flex your magic and shun silly things like “reading.”",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "If you play warlock, you have a lot of combat options, like eldritch blast, eldritch blast, and even eldritch blast!",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Play a wizard if you want a character who likes writing things down and doing math just as much as you.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Abjuration is the school of protective magic, perfect for people who claimed to have a force field in schoolyard games.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "With Conjuration magic, you can take the D&D tradition of making things up to its logical extreme.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "You can use Divination magic to absolutely destroy any hopes your DM had of creating mystery and intrigue.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Enchantment magic affects the minds of others. If you terrify the rogue with a sudden fireball, it’s technically Enchantment.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Evocation manipulates magical energy to produce a desired effect. All spells are secretly Evocation spells, in disguise.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Illusion magic deceives the minds of others, which is totally different from Enchantment, and way cooler, mom.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Necromancy manipulates life and death energies. You can’t cast these spells unless 60% of your wardrobe is black.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    },
+    {
+        "HINT": "Alter the properties of objects with Transmutation and learn the joy of turning everything into a goat.",
+        "AUTHOR": "u/CountedCrow",
+        "SOURCE": "https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3"
+    }
+]

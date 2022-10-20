@@ -29,7 +29,7 @@ main {
     row-gap: 10px;
     justify-content: center;
     align-items: center;
-    height: 60vh;
+    height: 75vh;
     font-size: x-large;
 }
 
@@ -51,10 +51,16 @@ body {
 
 .footer {
     position: absolute;
-    bottom: 20px;
+    bottom: 10px;
     text-align: center;
     width: 99%;
     font-size: smaller;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 }
 
 .hint-output {
