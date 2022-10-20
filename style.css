@@ -69,6 +69,30 @@ body {
   }
 }
 
+@media only screen and (max-height: 600px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    font-size: x-large;
+  }
+}
+
+@media only screen and (max-height: 750px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    font-size: x-large;
+  }
+}
+
 .hint-output {
     font-size: x-large;
     bottom: 40px;
