@@ -15,21 +15,33 @@ async function loadingScreen(){
     setInterval(function(){
         let hint = randomItemFromObject(hints)
         updateHint(hint, elementAuthor, elementHint)
-    }, 30 * 1000)
+    }, 10 * 1000)
 }
 function updateHint(hint, elementAuthor, elementHint){
-    elementAuthor.innerHTML = ''
-    elementHint.innerHTML = ''
+    elementAuthor.classList.remove('fade-in')
+    elementHint.classList.remove('fade-in')
+    elementAuthor.classList.add('fade-out')
+    elementHint.classList.add('fade-out')
 
-    let a = document.createElement('a')
-    if (hint.SOURCE) a.href = hint.SOURCE
-    a.innerHTML = hint.AUTHOR
-    a.target = "_blank"
-    a.rel = "noopener noreferrer"
-    elementAuthor.appendChild(a)
+    setTimeout(function(){
+        elementAuthor.innerHTML = ''
+        elementHint.innerHTML = ''
 
-    let span = document.createElement('span')
-    span.innerHTML = hint.HINT
-    elementHint.appendChild(span)
+        elementAuthor.classList.remove('fade-out')
+        elementHint.classList.remove('fade-out')
+        
+        elementAuthor.classList.add('fade-in')
+        elementHint.classList.add('fade-in')
 
+        let a = document.createElement('a')
+        if (hint.SOURCE) a.href = hint.SOURCE
+        a.innerHTML = hint.AUTHOR
+        a.target = "_blank"
+        a.rel = "noopener noreferrer"
+        elementAuthor.appendChild(a)
+
+        let span = document.createElement('span')
+        span.innerHTML = hint.HINT
+        elementHint.appendChild(span)
+    }, 3 * 1000)
 }
