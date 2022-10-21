@@ -5,9 +5,6 @@ function indexSetup(){
     tippy("#kofi", {
         content: "I don't drink coffee, so buy me an 🥑? 😋"
     })
-    tippy("#patreon", {
-        content: "Support me on Patreon"
-    })
 }
 // Function to load a local JSON from data/JSONs/
 async function fetchLocalJson(JSON){
