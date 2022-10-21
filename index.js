@@ -3,7 +3,7 @@ function indexSetup(){
         content: "Submit tip idea(s)"
     })
     tippy("#kofi", {
-        content: "Buy me a lemon 😋"
+        content: "I don't drink coffee, so buy me an 🥑? 😋"
     })
     tippy("#patreon", {
         content: "Support me on Patreon"
