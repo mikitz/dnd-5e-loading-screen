@@ -4,7 +4,7 @@ A website that acts similarly to a video game loading screen for D&amp;D 5e.
 
 ## Sources
 
-A checkmark denotes the source has been completly added to `data.json`
+A checkmark denotes the source has been completely added to `data.json`
 
 -   [x] https://www.reddit.com/r/DnD/comments/8oaqjb/dd_loading_screen_tips/
 -   [ ] https://www.reddit.com/r/DnD/comments/w3a5qt/what_are_your_dd_loading_screen_tips/
