@@ -11,4 +11,5 @@ A website that acts similarly to a video game loading screen for D&amp;D 5e.
 -   [ ] https://www.reddit.com/r/d100/comments/dbil9f/lets_build_100_loading_screen_tips/
 
 Custom Fonts: https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website
+
 Google Sheets DB: https://blog.coupler.io/how-to-use-google-sheets-as-database/
