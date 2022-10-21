@@ -2,6 +2,12 @@ function indexSetup(){
     tippy("#submit-ideas", {
         content: "Submit tip idea(s)"
     })
+    tippy("#kofi", {
+        content: "Buy me a lemon 😋"
+    })
+    tippy("#patreon", {
+        content: "Support me on Patreon"
+    })
 }
 // Function to load a local JSON from data/JSONs/
 async function fetchLocalJson(JSON){

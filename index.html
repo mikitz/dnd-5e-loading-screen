@@ -18,15 +18,21 @@
 </head> 
 <body>
     <main>
-        <div class="main-flex">
-            <h1>Your DM is loading...</h1>
-            <div class="icons-item">
+        <div class="container">
+            <div class="header">
+                <span class="title">Your DM is loading...</span>
+            </div>
+            <div class="icons-nav">
                 <a id="submit-ideas" target="_blank" rel="noopener noreferrer" href="https://forms.gle/Wik2LBqZDTr8Ygjv9"><i class="fa-solid fa-lightbulb"></i></a>
+                <a id="kofi" href="https://ko-fi.com/mikitz" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-lemon"></i></a>
+                <a id="patreon" href="https://www.patreon.com/mikitz"><i class="fa-brands fa-patreon"></i></a>
             </div>
-            <div class="main-item">
-                <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            <div class="spinner-container">
+                <div class="spinner">
+                    <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                </div>
             </div>
-            <div class="hint-output-item">
+            <div class="hint-output-main">
                 <div class="hint-item" id="hint"></div>
                 <div class="author-item" id="author"></div>
             </div>

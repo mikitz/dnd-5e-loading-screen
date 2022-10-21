@@ -16,33 +16,52 @@
     /* font-family: 'Fuzzy Bubbles', cursive; */
     /* font-family: 'First Reign'; */
     /* font-family: 'Dragonlord'; */
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
 }
-
+body {
+  /* background-color: #17afbe; */
+  background-image: radial-gradient(circle, #38c5cc, #17afbe, #247d84);
+}
 /* -----------------------------
             Flex
 ----------------------------- */
-.main-flex {
+.container {
   display: flex;
   flex-flow: column nowrap;
-  height: 97vh;
-  align-items: center;
+  height: 98vh;
+  align-items: stretch;
   row-gap: 10px;
-  justify-content: space-around;
-  flex: 1 100%
+  text-align: center;
 }
-.icons-item {
+.header {
   flex-grow: 0;
+  font-size: 42px;
+  font-weight: bold;
 }
-.main-item {
-  flex-grow: 6;
+.icons-nav {
+  font-size: 30px;
+  color: black;
+}
+.icons-nav a:visited, a:hover, a:active {
+  color: inherit;
+}
+a :hover {
+  color: #247d84;
+}
+.spinner-container {
+  flex: 80%;
+  align-self: center;
+  display: flex;
+  align-items: center;
 }
 .hint-output-main {
   flex-grow: 2;
+  font-size: 25px;
+  padding-bottom: 20px;
 }
 .footer-item {
   flex-grow: 1;
-  font-size: smaller;
+  font-size: 9px;
 }
 /* -----------------------------
         Without Flex
@@ -55,11 +74,6 @@
     align-items: center;
     height: 75vh;
     font-size: x-large;
-}
-
-body {
-    /* background-color: #40a0e0; */
-    background-color: #17afbe;
 }
 
 .icons {
