@@ -61,7 +61,7 @@ a :hover {
 }
 .footer-item {
   flex-grow: 1;
-  font-size: 9px;
+  font-size: 10px;
 }
 /* -----------------------------
         Without Flex
