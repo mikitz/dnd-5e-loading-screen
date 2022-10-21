@@ -19,10 +19,34 @@
     font-family: 'Quicksand', sans-serif;
 }
 
-main {
-    text-align: center;
+/* -----------------------------
+            Flex
+----------------------------- */
+.main-flex {
+  display: flex;
+  flex-flow: column nowrap;
+  height: 97vh;
+  align-items: center;
+  row-gap: 10px;
+  justify-content: space-around;
+  flex: 1 100%
 }
-
+.icons-item {
+  flex-grow: 0;
+}
+.main-item {
+  flex-grow: 6;
+}
+.hint-output-main {
+  flex-grow: 2;
+}
+.footer-item {
+  flex-grow: 1;
+  font-size: smaller;
+}
+/* -----------------------------
+        Without Flex
+----------------------------- */
 .main {
     display: flex;
     flex-direction: column;
